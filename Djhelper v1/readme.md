@@ -7,3 +7,4 @@
 5. 1. Find your bot token here: https://docs.discordbotstudio.org/setting-up-dbs/finding-your-bot-token
 5. 2. Replace devAccessIds with your user id (put it in the quotations)https://support.discord.com/hc/en-us/articles/206346498-Where-can-I-find-my-User-Server-Message-ID-
 6. If you have done everything correctly when you do "node index.js" (Make sure you are still in the directory)
+7. Run ".deploy create global" to create the slash commands
