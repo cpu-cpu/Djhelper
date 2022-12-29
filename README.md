@@ -5,3 +5,6 @@ No dashboard. great for smaller servers
 # Version 2
 ⚠️MAY NOT WORK⚠️
 Has a dashboard. Useful for larger servers.
+
+
+# Discord.js v14!
